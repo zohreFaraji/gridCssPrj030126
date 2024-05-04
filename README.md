@@ -2,7 +2,8 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![grid-miniWeb](https://github.com/zohreFaraji/gridCssPrj030126/assets/165832749/f5628171-e8a0-4e38-96af-5ba62d24dbc0)
+![grid-miniWeb](![grid](https://github.com/zohreFaraji/gridCssPrj030126/assets/165832749/b83ddebe-6c9c-4c57-a773-62f490ac2f6f)
+)
 
 - [Demo Project](https://zohrefaraji.github.io/gridCssPrj030126/)
 
