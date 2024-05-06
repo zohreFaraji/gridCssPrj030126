@@ -1,9 +1,8 @@
 # Grid-MiniProject
 
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
-
 ![grid](https://github.com/zohreFaraji/gridCssPrj030126/assets/165832749/b83ddebe-6c9c-4c57-a773-62f490ac2f6f)
 
+**You can see information about my project**
 
 - [Demo Project](https://zohrefaraji.github.io/gridCssPrj030126/)
 
